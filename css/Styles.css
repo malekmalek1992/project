@@ -1,4 +1,4 @@
-/*****tga selectore********/
+
 body {
   color: #40514E;
   margin: 0;
@@ -47,7 +47,7 @@ hr{
     width: 4%;
     margin: 100px auto;
    }
-/********* class selectore*******/
+
 .pro {
   text-decoration: underline;
 }
